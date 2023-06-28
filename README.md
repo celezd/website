@@ -24,4 +24,4 @@ git stash pop
 # Ejercicio 2
 ### ¿Cómo podrías subir los cambios a producción si es la rama master la que se usa para producción?
 
-
+Con un pull request desde GitHub. Cuando se valida el codigo, se fusiona la rama (merge)
